@@ -1,0 +1,8 @@
+C:\Users\Jesse\Desktop\CSharp Epicodus\LeapYear.solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.deps.json
+C:\Users\Jesse\Desktop\CSharp Epicodus\LeapYear.solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.runtimeconfig.json
+C:\Users\Jesse\Desktop\CSharp Epicodus\LeapYear.solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.runtimeconfig.dev.json
+C:\Users\Jesse\Desktop\CSharp Epicodus\LeapYear.solution\LeapYear\obj\Debug\netcoreapp1.1\LeapYear.AssemblyInfo.cs
+C:\Users\Jesse\Desktop\CSharp Epicodus\LeapYear.solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.dll
+C:\Users\Jesse\Desktop\CSharp Epicodus\LeapYear.solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.pdb
+C:\Users\Jesse\Desktop\CSharp Epicodus\LeapYear.solution\LeapYear\obj\Debug\netcoreapp1.1\LeapYear.dll
+C:\Users\Jesse\Desktop\CSharp Epicodus\LeapYear.solution\LeapYear\obj\Debug\netcoreapp1.1\LeapYear.pdb
